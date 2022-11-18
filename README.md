@@ -1,5 +1,5 @@
 # 2x2x3 Simple Simulator
-This repository contains an OCaml file implementing a very simple simulator for a 2x2x3 cube. The purpose of this file was to help me find a simple generic solution for the 2x2x3 cube. Specifically, a simple _algorithm_ to swap two adjascent pieces on the top face. While the simulator was originally set up for 2x2x3, adding 90° side turns would make this into a 2x2x2 simulator.
+This repository contains an OCaml file implementing a very simple simulator for a 2x2x3 cube. The purpose of this file was to help me find a simple generic solution for the 2x2x3 cube, specifically a simple _algorithm_ to swap two adjascent pieces on the top face. While the simulator was originally set up for 2x2x3, adding 90° side turns would transform this into a 2x2x2 simulator.
 
 ## Solutions Found
 ### 2x2x3
